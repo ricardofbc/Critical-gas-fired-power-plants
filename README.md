@@ -1,0 +1,1 @@
+This repository contains some details about the case study presented in the paper entitled ``Critical Gas-Fired Power Plants in Integrated Natural Gas and Electricity Systems" and has been accepted to the \textit{65th ESReDA Seminar from risk imagination to safety intervention – Managing risks with knowledge}.
